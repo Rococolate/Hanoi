@@ -1,0 +1,18 @@
+/*!
+ * 作者： wgx
+ * 日期：1493026080712
+ */
+.Column {
+  max-width: 200px;
+  width: 33%;
+  height: 500px;
+  margin: 0 10px;
+  background-color: pink;
+  text-align: center;
+  display: flex;
+  flex-flow: column-reverse;
+}
+.Column li {
+  height: 25px;
+  margin: 0 auto;
+}
